@@ -64,7 +64,7 @@ If you want to wire the components as shown, follow the sketch below:
 The front and back parts can be downloaded from the [model folder](STL-files). Print them out and assemble the electronics inside. The USB-C input should align with the hole. Glue the TP4056 board to the casing and place the rest of the circuit inside the case, ensuring everything is insulated to avoid short circuits. Attach the fan and place the coal filter behind it. Finally, secure the back piece using regular PC case screws.
 
 >[!TIP]
->Clean your printing bed before printing the front plate. In the images, you can see some dirt from the printing bed that has fused with the print. (The incorrect screw holes >have also been fixed now.)
+>Clean your printing bed before printing the front plate. In the images, you can see some dirt from the printing bed that has fused with the print. (The incorrect screw holes have also been fixed now.)
 
 <img src="images/front.png" height="300" alt="Front Casing"/> <img src="images/back.png" height="300" alt="Back Casing"/>
 
