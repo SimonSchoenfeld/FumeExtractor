@@ -24,14 +24,15 @@ This repository details the creation of a DIY soldering fume extractor using sim
   <tr>
     <td width="400">
       The usage of non-rechargeable vapes has increased significantly over the last few years. These vapes produce a lot of unnecessary waste, and the batteries inside pose a significant threat to nature or garbage trucks if not properly disposed of. Many people are unaware that even non-rechargeable vapes have rechargeable batteries inside, which can be reused for different purposes. The vapes can easily be opened with a screwdriver or by hand. After extracting the battery, the rest of the shell can be discarded with regular garbage.
-      <br><br>
-      [!CAUTION] The inside of the vape has an extreme smell; you may want to open it outside.
     </td>
     <td>
       <img src="images/vape.png" alt="Vape Image" width="150"/>
     </td>
   </tr>
 </table>
+
+>[!CAUTION] 
+      >The inside of the vape has an extreme smell; you may want to open it outside.
 
 The batteries can be charged like normal LiPo batteries using circuit boards like the TP4056 board. It is used to charge and discharge small LiPo packs without overcharging or over-discharging them. The boards are also quite affordable, making them a good method of reusing LiPo batteries in a controlled way.
 
