@@ -17,8 +17,8 @@ This repository details the creation of a DIY soldering fume extractor using sim
 
 ## Vape Batteries:
 
-[!WARNING]
-Vape batteries can pose serious risks if not handled properly. Mishandling can lead to battery failure, fire, or even explosions.
+>[!WARNING]
+>Vape batteries can pose serious risks if not handled properly. Mishandling can lead to battery failure, fire, or even explosions.
 
 <table>
   <tr>
@@ -35,8 +35,8 @@ Vape batteries can pose serious risks if not handled properly. Mishandling can l
 
 The batteries can be charged like normal LiPo batteries using circuit boards like the TP4056 board. It is used to charge and discharge small LiPo packs without overcharging or over-discharging them. The boards are also quite affordable, making them a good method of reusing LiPo batteries in a controlled way.
 
-[!NOTE]
-The batteries inside vapes can be recharged but are not designed for extensive use. They may not last as many recharge cycles as other LiPo packs, but for projects like this, where they only need to be charged occasionally, they are great.
+>[!NOTE]
+>The batteries inside vapes can be recharged but are not designed for extensive use. They may not last as many recharge cycles as other LiPo packs, but for projects like this, where they only need to be charged occasionally, they are great.
 
 ## Circuit:
 If you want to wire the components as shown, follow the sketch below:
@@ -63,9 +63,10 @@ If you want to wire the components as shown, follow the sketch below:
 ## Casing:
 The front and back parts can be downloaded from the [model folder](STL-files). Print them out and assemble the electronics inside. The USB-C input should align with the hole. Glue the TP4056 board to the casing and place the rest of the circuit inside the case, ensuring everything is insulated to avoid short circuits. Attach the fan and place the coal filter behind it. Finally, secure the back piece using regular PC case screws.
 
-[!TIP] Clean your printing bed before printing the front plate. In the images, you can see some dirt from the printing bed that has fused with the print. (The incorrect screw holes have also been fixed now.)
+>[!TIP]
+>Clean your printing bed before printing the front plate. In the images, you can see some dirt from the printing bed that has fused with the print. (The incorrect screw holes >have also been fixed now.)
 
 <img src="images/front.png" height="300" alt="Front Casing"/> <img src="images/back.png" height="300" alt="Back Casing"/>
 
-[!WARNING]
-This project involves handling potentially dangerous components such as LiPo batteries. Proceed with caution and at your own risk. The author is not responsible for any damage or injury resulting from the use of this guide.
+>[!WARNING]
+>This project involves handling potentially dangerous components such as LiPo batteries. Proceed with caution and at your own risk. The author is not responsible for any damage or injury resulting from the use of this guide.
