@@ -2,8 +2,8 @@
 
 This repository details the creation of a DIY soldering fume extractor using simple and affordable parts. This project is an excellent way to recycle old vape batteries and ensure safer soldering practices by removing harmful fumes.
 
-<img src="images/icon.png" height="300" alt="Fume Extractor Icon"/>
-<img src="images/drawing_01.png" height="300" alt="drawing"/>
+<img src="images/icon.png" height="200" alt="Fume Extractor Icon"/>
+<img src="images/drawing_01.png" height="200" alt="drawing"/>
 
 ## Parts:
 - Standard PC fan
